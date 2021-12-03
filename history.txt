@@ -1,0 +1,74 @@
+    1  sudo apt upgrade
+    2  sudo apt update
+    3  sudp apt install nmap
+    4  sudo apt install nmap
+    5  sudo apt install net-tools
+    6  sudo nmap
+    7  sudo apt install update
+    8  sudo apt install upgrade
+    9  sudo nmap
+   10  sudo nmap inet
+   11  sudo ifconfig
+   12  nmap -sn 192.168.253.250
+   13  nmap -sn 192.168.1.1/24
+   14  sudo apt install vim
+   15  vim
+   16  vim main
+   17  sudo
+   18  ~/.bashrc
+   19  sudo
+   20  sudo apt install
+   21  ~/.bashrc
+   22  sudo apt install
+   23  vim
+   24  nano
+   25  source alias1
+   26  nano alias1
+   27  source alias1
+   28  cleaer
+   29  source alias1
+   30  cleaer
+   31  source alias1
+   32  clear
+   33  nano alias1
+   34  nano
+   35  source ~/.bashrc
+   36  clear
+   37  nano ~/.bashrc
+   38  cl
+   39  source ~/.bashrc
+   40  cl
+   41  nano
+   42  bash bash_script1.bash
+   43  nano ~/.bashrc
+   44  source ~/.bashrc
+   45  hello
+   46  nano ~/.bashrc
+   47  cd twodir
+   48  source ~/.bashrc
+   49  twodir
+   50  nmap
+   51  nano ~/.bashrc
+   52  source ~/.bashrc
+   53  pinggoogle
+   54  nano ~/.bashrc
+   55  source ~/.bashrc
+   56  pinggoogle
+   57  cat ~/.bashrc
+   58  nano ~/.bashrc
+   59  mkdir folder1
+   60  sudo
+   61  sudo mkdir folder1
+   62  ls
+   63  cd folder1
+   64  mkdir folder2
+   65  sudo mkdir folder2
+   66  ls
+   67  cd folder2
+   68  source ~/.bashrc
+   69  ...
+   70  ls
+   71  histiry
+   72  history > history.txt
+   73  sudo history > history.txt
+   74  history
