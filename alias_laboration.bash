@@ -16,3 +16,4 @@ alias pinggoogle='
 echo "Press Ctrl + C to break the operation"
 ping 8.8.8.8'
 
+# För att använda dessa alias, skriv 'source ~/.bashrc' i terminalen.
