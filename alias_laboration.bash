@@ -8,7 +8,7 @@ alias cl='clear'
 # Gör att kommandot 'hello' kör filen helloworld.bash
 alias hello='helloworld.bash'
 
-# Gör att '...' kan användas för att gå upp två steg i driectory
+# Gör att '...' kan användas för att gå upp två steg i directory
 alias ...='cd ../..'
 
 # Gör att 'pinggoogle' först skriver "Press Ctrl + C to break the operation" och pingar sedan Google
